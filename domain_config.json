@@ -6,6 +6,9 @@
     },{
       "baseUrl": "https://im2.luvtww.cn/api",
       "wsUrl": "wss://im2.luvtww.cn/im"
+    },{
+      "baseUrl": "https://im3.luvtww.cn/api",
+      "wsUrl": "wss://im3.luvtww.cn/im"
     }
   ]
 }
