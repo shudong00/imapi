@@ -9,6 +9,18 @@
     },{
       "baseUrl": "https://im3.luvtww.cn/api",
       "wsUrl": "wss://im3.luvtww.cn/im"
+    },{
+      "baseUrl": "https://imb1.luvtww.cn/api",
+      "wsUrl": "wss://imb1.luvtww.cn/im"
+    },{
+      "baseUrl": "https://imb2.luvtww.cn/api",
+      "wsUrl": "wss://imb2.luvtww.cn/im"
+    },{
+      "baseUrl": "https://imc1.luvtww.cn/api",
+      "wsUrl": "wss://imc1.luvtww.cn/im"
+    },{
+      "baseUrl": "https://imc2.luvtww.cn/api",
+      "wsUrl": "wss://imc2.luvtww.cn/im"
     }
   ]
 }
