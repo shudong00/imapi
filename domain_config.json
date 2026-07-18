@@ -21,6 +21,12 @@
     },{
       "baseUrl": "https://imc2.luvtww.cn/api",
       "wsUrl": "wss://imc2.luvtww.cn/im"
+    },{
+      "baseUrl": "https://im1.vpdgyn.cn/api",
+      "wsUrl": "wss://im1.vpdgyn.cn/im"
+    },{
+      "baseUrl": "https://im2.vpdgyn.cn/api",
+      "wsUrl": "wss://im2.vpdgyn.cn/im"
     }
   ]
 }
