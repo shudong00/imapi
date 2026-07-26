@@ -1,1 +1,8 @@
-asd
+{
+  "domains": [
+    {
+      "baseUrl": "https://api.qbaoce.cn/api",
+      "wsUrl": "wss://api.qbaoce.cn/im"
+    }
+  ]
+}
