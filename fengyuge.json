@@ -1,0 +1,14 @@
+{
+  "domains": [
+    {
+      "baseUrl": "https://im.vsstxpl.cn/api",
+      "wsUrl": "wss://im.vsstxpl.cn/im"
+    },{
+      "baseUrl": "https://im2.vsstxpl.cn/api",
+      "wsUrl": "wss://im2.vsstxpl.cn/im"
+    },{
+      "baseUrl": "https://im3.vsstxpl.cn/api",
+      "wsUrl": "wss://im3.vsstxpl.cn/im"
+    }
+  ]
+}
