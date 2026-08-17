@@ -1,8 +1,8 @@
 {
   "domains": [
     {
-      "baseUrl": "https://api.qbaoce.cn/api",
-      "wsUrl": "wss://api.qbaoce.cn/im"
+      "baseUrl": "https://api.glxhf.cn/api",
+      "wsUrl": "wss://api.glxhf.cn/im"
     }
   ]
 }
