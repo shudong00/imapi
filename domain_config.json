@@ -1,26 +1,17 @@
 {
   "domains": [
     {
-      "baseUrl": "https://im.luvtww.cn/api",
-      "wsUrl": "wss://im.luvtww.cn/im"
+      "baseUrl": "https://im.kzvpmyo.cn/api",
+      "wsUrl": "wss://im.kzvpmyo.cn/im"
     },{
-      "baseUrl": "https://im2.luvtww.cn/api",
-      "wsUrl": "wss://im2.luvtww.cn/im"
+      "baseUrl": "https://im1.kzvpmyo.cn/api",
+      "wsUrl": "wss://im1.kzvpmyo.cn/im"
     },{
-      "baseUrl": "https://im3.luvtww.cn/api",
-      "wsUrl": "wss://im3.luvtww.cn/im"
+      "baseUrl": "https://im2.kzvpmyo.cn/api",
+      "wsUrl": "wss://im2.kzvpmyo.cn/im"
     },{
-      "baseUrl": "https://imb1.luvtww.cn/api",
-      "wsUrl": "wss://imb1.luvtww.cn/im"
-    },{
-      "baseUrl": "https://imb2.luvtww.cn/api",
-      "wsUrl": "wss://imb2.luvtww.cn/im"
-    },{
-      "baseUrl": "https://imc1.luvtww.cn/api",
-      "wsUrl": "wss://imc1.luvtww.cn/im"
-    },{
-      "baseUrl": "https://imc2.luvtww.cn/api",
-      "wsUrl": "wss://imc2.luvtww.cn/im"
+      "baseUrl": "https://im.vpdgyn.cn/api",
+      "wsUrl": "wss://im1.kzvpmyo.cn/im"
     },{
       "baseUrl": "https://im1.vpdgyn.cn/api",
       "wsUrl": "wss://im1.vpdgyn.cn/im"
