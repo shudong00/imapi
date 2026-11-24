@@ -1,8 +1,8 @@
 {
   "domains": [
     {
-      "baseUrl": "https://axy.nuualt.cn/api",
-      "wsUrl": "wss://axy.nuualt.cn/im"
+      "baseUrl": "https://axy.pssjmy.cn/api",
+      "wsUrl": "wss://axy.pssjmy.cn/im"
     }
   ]
 }
